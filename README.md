@@ -1,8 +1,8 @@
 # YandexGPT Summarize
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/NKDev/YandexGPT-Summarize)
-![GitHub license](https://img.shields.io/github/license/NKDev/YandexGPT-Summarize)
-![GitHub issues](https://img.shields.io/github/issues/NKDev/YandexGPT-Summarize)
+![GitHub release (latest by date)]()
+![GitHub license]()
+![GitHub issues]()
 
 **YandexGPT Summarize** — это скрипт для Tampermonkey, который добавляет плавающую кнопку на любую веб-страницу. Одним кликом вы можете отправить URL статьи или видео на сервис [YandexGPT (300.ya.ru)](https://300.ya.ru) и получить краткое обобщение контента, без вставки своего api ключа.
 
